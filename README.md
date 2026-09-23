@@ -1,7 +1,29 @@
 # SupportIQ — Production AI Customer Support & Knowledge Agent Platform
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-suhana2312.github.io%2Fsupportiq-brightgreen?style=for-the-badge&logo=githubpages&logoColor=white)](https://suhana2312.github.io/supportiq/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-suhana2312%2Fsupportiq-blue?style=for-the-badge&logo=github)](https://github.com/suhana2312/supportiq)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 > An enterprise-grade, multi-tenant AI customer support SaaS platform built with **FastAPI**, **LangGraph**, **PostgreSQL (pgvector)**, **React 18**, **TypeScript**, and **Tailwind CSS**.
 > Features real-time Server-Sent Events (SSE) streaming, deterministic Python business policy execution, grounded RAG document ingestion, and automated human-in-the-loop escalation.
+
+---
+
+## 🌐 Live Demo & Instant Access
+
+### 🚀 **[Click Here to Open SupportIQ Live](https://suhana2312.github.io/supportiq/)**
+
+> **Note:** The live demo is hosted 100% on **GitHub Pages** with an embedded **Standalone Showcase Engine**. Anyone can explore the full application, test the AI customer support agent, review order lookups, and interact with the admin analytics dashboard with **no installation or local setup required!**
+
+#### 🔑 1-Click Demo Login Personas
+
+| Persona | Email | Password | What to Explore |
+|---|---|---|---|
+| **Organization Admin** | `admin@supportiq.com` | `Admin123!` | Executive KPI Analytics, 20 retail orders, Refund Approvals, Knowledge Base RAG docs |
+| **Support Agent** | `agent.sarah@supportiq.com` | `Agent123!` | Ticket Workbench, Customer-agent chat threads, Internal agent notes |
+| **Customer** | `customer1@example.com` | `Customer123!` | Live AI Support Chat, Order `#4521` tracking, Refund eligibility checker, CSAT ratings |
+
+*(Or simply click the **1-Click Quick Login** buttons directly on the login screen).*
 
 ---
 
